@@ -1,0 +1,12 @@
+name: gas-brother
+channels:
+  - "conda-forge"
+dependencies:
+  - python=3.12.4
+  - ipykernel
+  - pandas
+  - numpy
+  - plotly
+  - scipy
+  - scikit-learn
+  - autopep8
